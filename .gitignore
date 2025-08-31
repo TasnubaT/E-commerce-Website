@@ -5,3 +5,4 @@
 .DS_Store
 /.vscode/
 /.idea/
+"README.md"    # add to .gitignore so Git ignores it in the future
